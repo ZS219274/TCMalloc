@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address -g -O0   CMakeFiles/bench_demo.dir/bench_demo.cpp.o  -o bench_demo  -Wl,-rpath,/home/super/project/tiny-tcmalloc/build: ../libtiny_tcmalloc.so -lpthread 

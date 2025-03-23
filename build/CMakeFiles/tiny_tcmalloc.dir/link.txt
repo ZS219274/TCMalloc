@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fsanitize=address -g -O0  -shared -Wl,-soname,libtiny_tcmalloc.so -o libtiny_tcmalloc.so CMakeFiles/tiny_tcmalloc.dir/src/central_cache.cpp.o CMakeFiles/tiny_tcmalloc.dir/src/page_cache.cpp.o CMakeFiles/tiny_tcmalloc.dir/src/thread_cache.cpp.o  -lpthread 

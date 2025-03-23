@@ -1,0 +1,14 @@
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/install/strip.dir
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/install/local.dir
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/install.dir
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/list_install_components.dir
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/rebuild_cache.dir
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/edit_cache.dir
+/home/super/project/tiny-tcmalloc/build/CMakeFiles/tiny_tcmalloc.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/install/strip.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/install/local.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/install.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/list_install_components.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/rebuild_cache.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/edit_cache.dir
+/home/super/project/tiny-tcmalloc/build/bench/CMakeFiles/bench_demo.dir

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/super/project/tiny-tcmalloc/build",
+  "command": "/usr/bin/c++  -Dtiny_tcmalloc_EXPORTS -I/home/super/project/tiny-tcmalloc/include   -fsanitize=address -g -O0 -fPIC   -std=gnu++2a -o CMakeFiles/tiny_tcmalloc.dir/src/central_cache.cpp.o -c /home/super/project/tiny-tcmalloc/src/central_cache.cpp",
+  "file": "/home/super/project/tiny-tcmalloc/src/central_cache.cpp"
+},
+{
+  "directory": "/home/super/project/tiny-tcmalloc/build",
+  "command": "/usr/bin/c++  -Dtiny_tcmalloc_EXPORTS -I/home/super/project/tiny-tcmalloc/include   -fsanitize=address -g -O0 -fPIC   -std=gnu++2a -o CMakeFiles/tiny_tcmalloc.dir/src/page_cache.cpp.o -c /home/super/project/tiny-tcmalloc/src/page_cache.cpp",
+  "file": "/home/super/project/tiny-tcmalloc/src/page_cache.cpp"
+},
+{
+  "directory": "/home/super/project/tiny-tcmalloc/build",
+  "command": "/usr/bin/c++  -Dtiny_tcmalloc_EXPORTS -I/home/super/project/tiny-tcmalloc/include   -fsanitize=address -g -O0 -fPIC   -std=gnu++2a -o CMakeFiles/tiny_tcmalloc.dir/src/thread_cache.cpp.o -c /home/super/project/tiny-tcmalloc/src/thread_cache.cpp",
+  "file": "/home/super/project/tiny-tcmalloc/src/thread_cache.cpp"
+},
+{
+  "directory": "/home/super/project/tiny-tcmalloc/build/bench",
+  "command": "/usr/bin/c++   -I/home/super/project/tiny-tcmalloc/include   -fsanitize=address -g -O0   -std=gnu++2a -o CMakeFiles/bench_demo.dir/bench_demo.cpp.o -c /home/super/project/tiny-tcmalloc/bench/bench_demo.cpp",
+  "file": "/home/super/project/tiny-tcmalloc/bench/bench_demo.cpp"
+}
+]
